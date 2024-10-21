@@ -26,6 +26,8 @@ import java.util.Map;
  * 输出："0.(012)"
  *
  */
+
+//你好
 class Solution1 {
     public String fractionToDecimal(int numerator, int denominator) {
         long numeratorLong = (long) numerator;
